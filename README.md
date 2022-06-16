@@ -1,1 +1,1 @@
-# somethingstrange - my first steps in prgramming, practicing coding HTML and CSS. You're welcome)
+# something - my first steps in programming, practicing coding HTML and CSS. You're welcome)
