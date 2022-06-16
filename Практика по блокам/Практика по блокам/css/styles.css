@@ -1,0 +1,65 @@
+.Body {
+background-image: url(https://img.freepik.com/free-photo/river-surrounded-by-forests-under-a-cloudy-sky-in-thuringia-in-germany_181624-30863.jpg?w=2000);
+background-repeat: no-repeat;
+background-size: 1440px;
+}
+.Tophead {
+    display: inline-block;
+    width: 1415px;
+    height: 70px;
+    background-color: rgb(214, 255, 255);
+    margin-left: 4px;
+    text-align: center;
+    border-radius: 10px;
+}
+.Tours, .About, .Contacts, .Feedback, .Galery {
+    font-size: 32px;
+    color: rgba(144, 144, 144, 0.863);
+    margin-left: 75px;
+    margin-right: 75px;
+    box-sizing: border-box;
+    position: relative;
+    top: 15px;
+}
+.Tour1 {
+    border-radius: 17px 17px;
+    display: block;
+    width: 400px;
+    height: max-content;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 50px;
+    font-size: 20px;
+    border-style: solid;
+    color: rgb(83, 83, 83);
+    background-color: rgb(214, 255, 255);
+    padding: 12px;
+    opacity: 80%;
+}
+.P5 {
+    font-style: italic;
+    font-size: 25px;
+    font-size: xx-large;
+}
+
+.Tour2 {
+    display: block;
+    border-radius: 17px 17px;
+    width: 400px;
+    height: max-content;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(83, 83, 83);
+    background-color: rgb(214, 255, 255);
+    opacity: 80%;
+    font-size: 20px;
+    color: rgb(83, 83, 83);
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 12px;
+}
+.P7 {
+    font-style: italic;
+    font-size: 25px;
+    font-size: xx-large;
+}
